@@ -10,3 +10,6 @@ eg
 
 #No roms
 *.nes
+
+#No raw output
+Cartographer/script
